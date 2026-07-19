@@ -1,0 +1,36 @@
+[2026-07-19 16:45:16] Server started on port 5000
+[2026-07-19 16:46:27] [SERVER] Ravi kiran joined the chat.
+[2026-07-19 16:46:27] Ravi kiran joined the chat.
+[2026-07-19 16:51:05] [SERVER] Kumar joined the chat.
+[2026-07-19 16:51:05] Kumar joined the chat.
+[2026-07-19 16:53:35] [16:53:35] Ravi kiran: hello kumar
+[2026-07-19 17:01:29] [SERVER] Harsh joined the chat.
+[2026-07-19 17:01:29] Harsh joined the chat.
+[2026-07-19 17:04:04] [PRIVATE] Ravi kiran -> Harsh: Hey Harsh this is me, u remember?
+[2026-07-19 17:07:25] [SERVER] Ravi kiran left the chat.
+[2026-07-19 17:07:25] Ravi kiran left the chat.
+[2026-07-19 17:10:26] Server started on port 5000
+[2026-07-19 17:14:27] [SERVER] Ravi kiran joined the chat.
+[2026-07-19 17:14:27] Ravi kiran joined the chat.
+[2026-07-19 17:15:41] [17:15:41] Ravi kiran: Get-Content .\logs\chat_history.txt
+[2026-07-19 17:17:53] [SERVER] Ravi kiran left the chat.
+[2026-07-19 17:17:53] Ravi kiran left the chat.
+[2026-07-19 17:18:21] Server started on port 5000
+[2026-07-19 17:18:53] [SERVER] Kumar varma joined the chat.
+[2026-07-19 17:18:53] Kumar varma joined the chat.
+[2026-07-19 17:19:30] [SERVER] Kumar varma left the chat.
+[2026-07-19 17:19:30] Kumar varma left the chat.
+[2026-07-19 17:21:27] Server started on port 5000
+[2026-07-19 17:21:51] [SERVER] Kumar varma joined the chat.
+[2026-07-19 17:21:51] Kumar varma joined the chat.
+[2026-07-19 17:21:58] [SERVER] Kumar varma left the chat.
+[2026-07-19 17:21:58] Kumar varma left the chat.
+[2026-07-19 17:25:39] Server started on port 5000
+[2026-07-19 17:26:03] [SERVER] Harsh joined the chat.
+[2026-07-19 17:26:03] Harsh joined the chat.
+[2026-07-19 17:27:32] [SERVER] Kumar joined the chat.
+[2026-07-19 17:27:32] Kumar joined the chat.
+[2026-07-19 17:28:10] [SERVER] kiran joined the chat.
+[2026-07-19 17:28:10] kiran joined the chat.
+[2026-07-19 17:30:26] [PRIVATE] Harsh -> Kumar: hii bro dont tell any one
+[2026-07-19 17:30:39] [17:30:39] Harsh: hii all nice to meet u
